@@ -27,3 +27,5 @@ p:before {
     margin: 0 6px 0 0;
 }
 ```
+```Input : <p>paragraph text</p>```
+Result : <img src="https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/images/block_icon.png" width="20"> paragraph text
