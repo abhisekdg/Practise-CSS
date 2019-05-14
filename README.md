@@ -29,3 +29,23 @@ p:before {
 ```
 ```Input : <p>paragraph text</p>```
 Result : <img src="https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/images/block_icon.png" width="20"> paragraph text
+
+## Clearing floats
+
+```html
+<a href="#">Home</a>
+<a href="#">Products</a>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+```
+
+```css
+p:before {
+    content: "";
+    display: block;
+    clear: both;
+}
+```
+
+<a href="#">Home</a>
+<a href="#">Products</a>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
