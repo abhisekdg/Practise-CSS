@@ -49,3 +49,22 @@ p:before {
 <a href="#">Home</a>
 <a href="#">Products</a>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+## CSS Properties
+
+```css
+position: relative;
+box-sizing: border-box;
+overflow: hidden;
+transform: translateY(-0px);
+background-repeat: no-repeat;
+background-position: 50%;
+background-size: contain;
+display: contents | inline-block;
+vertical-align: middle;
+stroke-dasharray: 1,200;
+stroke-dashoffset: 0;
+animation: _1KP0Jq 1.5s ease-in-out infinite;
+stroke-linecap: round;
+```
+
