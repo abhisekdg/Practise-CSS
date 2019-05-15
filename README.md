@@ -1,6 +1,22 @@
 # Practise-CSS
 https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 
+### FLEX PROPERTIES
+
+```css
+display: flex | inline-flex;
+flex-direction: row | column
+flex-wrap: wrap | nowrap | wrapreverse
+flex-basis: <length>
+flex-grow: <number>
+flex-shrink: <number>
+flex: <number>
+order: <number>		
+justify-content: flex-start | flex-end | center
+align-self: flex-start | flex-end | center
+align-items : flex-start | flex-end | center
+align-content : flex-start | flex-end | center
+```
 
 ```css
 @media(min-width:768px) {
