@@ -1,6 +1,10 @@
 # Practise-CSS
 https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 
+1. https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/index.html
+
+2. https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/flex/flex_sample.html
+
 ### FLEX PROPERTIES
 
 ```css
@@ -28,9 +32,6 @@ align-content : flex-start | flex-end | center
   }
 }
 ```
-https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/index.html
-
-https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/flex/flex_sample.html
 
 ```css
 p:before {
