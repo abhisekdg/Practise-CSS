@@ -2,8 +2,6 @@
 https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 
 
-![](images/flex_properties.png)
-
 ```css
 @media(min-width:768px) {
   container-1{
