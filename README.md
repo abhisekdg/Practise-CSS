@@ -30,7 +30,9 @@ p:before {
 ```Input : <p>paragraph text</p>```
 Result : <img src="https://rawcdn.githack.com/abhisekdg/Practise-CSS/master/images/block_icon.png" width="20"> paragraph text
 
-## Clearing floats
+## Clearing floats 
+
+http://krasimirtsonev.com/blog/article/CSS-before-and-after-pseudo-elements-in-practice
 
 ```html
 <a href="#">Home</a>
